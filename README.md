@@ -1,20 +1,20 @@
 <!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=80F7D4&height=120&section=header"/> -->
 
-<img width=100% src="./assets/banner.png"/>
+<img width=100% src="./willsoph/assets/banner-github.png"/>
 
 <div align='center'>
 
 <div align="center">  
   
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=cristian-sbardelotto&show_icons=true&count_private=true&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=fff0" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=willsoph&show_icons=true&count_private=true&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=fff0" /> 
   
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristian-sbardelotto&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willsoph&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0" />
   
 </div>
 
 </div>
 
-<img src="./assets/lineBar.png" width="100%" height="8px"/>
+<img src="./willsoph/assets/lineBar.png" width="100%" height="8px"/>
 
 <div><br />
 
@@ -68,14 +68,14 @@
 ## 🧡 About me:
 
 👋 Hello! My name is Willians Ferreira and I am a Front-End Developer. I started studying Web programming in June 2008, and since then, I feel more and more inspired and willing to pursue my career in the area. <br /> 
-🧠 My current goal is to get my first job and, in the future, become a Tech Lead.<br /> 
-🧑‍💻 My main technologies are Javascript/Typescript, React, NextJS, Styled-Components, NodeJS and Prisma + Fastify.<br />
+🧠 Continuing my journey as a seasoned professional, my ongoing goal is not just to excel in my craft but to pave the way for others. As a seasoned developer, my sights are set on the horizon of leadership, aspiring to guide and inspire as a Tech Lead in the near future.<br /> 
+🧑‍💻 My main technologies are Javascript/Typescript, React, React Native, NextJS, Styled-Components, NodeJS and Prisma + Fastify.<br />
 🧑🏻 I always try to be a polite and respectful person, and I love interacting with new people and sharing my story. Want to talk about technology, games or sports? Send a message!<br /> 
 💻 Check out my [portfolio](https://portifolio-s2ss.vercel.app/)!
 
 <br />
 
-<img src="./assets/lineBar.png" width="100%" height="8px"/>
+<img src="./willsoph/assets/lineBar.png" width="100%" height="8px"/>
 
 <h2 align='center'>Contact me</h2>
 
