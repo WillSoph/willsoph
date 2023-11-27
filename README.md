@@ -1,6 +1,6 @@
 <!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=80F7D4&height=120&section=header"/> -->
 
-<img width=100% src="./willsoph/assets/banner-github.png"/>
+<img width=100% src="./assets/banner-github.png"/>
 
 <div align='center'>
 
@@ -14,7 +14,7 @@
 
 </div>
 
-<img src="./willsoph/assets/lineBar.png" width="100%" height="8px"/>
+<img src="./assets/lineBar.png" width="100%" height="8px"/>
 
 <div><br />
 
@@ -67,15 +67,15 @@
 
 ## 🧡 About me:
 
-👋 Hello! My name is Willians Ferreira and I am a Front-End Developer. I started studying Web programming in June 2008, and since then, I feel more and more inspired and willing to pursue my career in the area. <br /> 
-🧠 Continuing my journey as a seasoned professional, my ongoing goal is not just to excel in my craft but to pave the way for others. As a seasoned developer, my sights are set on the horizon of leadership, aspiring to guide and inspire as a Tech Lead in the near future.<br /> 
+👋 Hello! My name is Willians Ferreira and I am a Front-End Developer. I started studying Web programming in June 2008, and since then, I feel more and more inspired and willing to pursue my career in the area. <br />
+🧠 Continuing my journey as a seasoned professional, my ongoing goal is not just to excel in my craft but to pave the way for others. As a seasoned developer, my sights are set on the horizon of leadership, aspiring to guide and inspire as a Tech Lead in the near future.<br />
 🧑‍💻 My main technologies are Javascript/Typescript, React, React Native, NextJS, Styled-Components, NodeJS and Prisma + Fastify.<br />
-🧑🏻 I always try to be a polite and respectful person, and I love interacting with new people and sharing my story. Want to talk about technology, games or sports? Send a message!<br /> 
+🧑🏻 I always try to be a polite and respectful person, and I love interacting with new people and sharing my story. Want to talk about technology, games or sports? Send a message!<br />
 💻 Check out my [portfolio](https://portifolio-s2ss.vercel.app/)!
 
 <br />
 
-<img src="./willsoph/assets/lineBar.png" width="100%" height="8px"/>
+<img src="./assets/lineBar.png" width="100%" height="8px"/>
 
 <h2 align='center'>Contact me</h2>
 
